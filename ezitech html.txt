@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Ezitech web</title>
+   <link rel="stylesheet" href="style.css">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+      integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+      crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body >
+  <div class="container0">
+   <div class="firstnav">
+      <div class="phone">
+         <i class="fa-solid fa-phone-flip"></i>
+         <span>03499495483</span>
+      </div>
+      <div id="location">
+         <i class="fa-solid fa-location-dot"></i>
+         <span>BARI LAL KURTI,PESHAWAR CANTT</span>
+      </div>
+      <div id="clock">
+         <i class="fa-regular fa-clock"></i>
+         <span>Mon - Fri 8.00 - 20.00</span>
+      </div>
+      <div id="fb">
+         <i class="fa-brands fa-instagram"></i>
+         <i class="fa-brands fa-facebook"></i>
+         <i class="fa-brands fa-linkedin"></i>
+         <i class="fa-brands fa-youtube"></i>
+      </div>
+      <div id="login">
+         <i class="fa-solid fa-person"></i>
+         <span>LOGIN&nbsp;|&nbsp;REGISTER</span>
+      </div>
+   </div>
+
+   <div class="header">
+
+      <img src="EZITECH-LOGO-white.png" alt="">
+      <a href="#">HOME</a>
+      <a href="#">CONT US</a>
+      <a href="#">CERTIFICATIONS</a>
+      <a href="#">INTERNSHIPS</a>
+      <a href="#">SEMINAR</a>
+      <a href="#">INTERN&nbsp;PORTAL</a>&nbsp;<span>|</span>
+      <i class="fa-regular fa-heart"></i>
+
+      <i id="search" class="fa-solid fa-magnifying-glass"></i>
+
+   </div>
+   <hr>
+   <div class="heading">
+      <div id="heading1">
+         <h1>LEARN THE FUNDAMENTALS WITH OUR<br>&nbsp;&nbsp;&nbsp;&nbsp; EXPERTS<i> IN DIFFERENT COURSES</i></h1>
+         <div id="heading2">
+         <span>UTILIZE EFFECTIVE TRAINING TO REACH OUR POTENTIAL!</span></div>
+         <div class="searchbar">
+            <input type="text" placeholder="search courses">
+            <i class="fa-solid fa-magnifying-glass"></i>
+
+    
+          </div>
+          <div id="heading3">
+          <span>EXPLORE OUR MORE USEFUL PRODUCTS</span>
+          <i class="fa-solid fa-heart"></i>
+         </div>
+         <div class="imagess">
+            <img src="EZIBLOGS-DG1.png" alt="">
+            <img src="white-ezipos.22.png" alt="">
+            <img src="white-lgooo-013.png" alt="">
+         </div>
+      </div>
+   </div>
+</div>
+   <div class="container" >
+   <div id="heading4">
+      <h2>BEST IT SERVICES AWARS</h2>
+      <div id="para">
+         <img src="local.png" alt="">
+      <p>Ezitech Is affiliated With Eziline Software House. Eziline has been awarded the prestigious Best Software House in IT sector award by the President of Pakistan. This is an incredible achievement and a testament to the hard work and dedication of the entire team at Eziline Software House. The award is a great recognition of the company’s achievements in the field of IT and serves as a major milestone in its journey towards success.
+       <br>
+       
+         This award is a huge source of motivation and inspiration for the entire team at Eziline Software House. It is a validation of the company’s commitment to innovation, excellence, and customer satisfaction. The award acknowledges the hard work and dedication of every member of the team who has contributed to the success of the company.
+         <br>
+         Ismail Shah, the CEO of Eziline Software House Pvt Ltd, received the Best Services Award in the IT sector from the President of Pakistan, Dr. Arif Alvi, in recognition of his remarkable contributions to the country’s technology industry.</p>
+         
+         
+      </div>
+      <div id="b1">
+      <button>Eziline Profile</button></div>
+
+
+   </div>
+</div>
+<div class="container2">
+   <div id="heading5">
+      <h2>HOW IT WORKS</h2>
+   </div>
+   <div class="working">
+      <div class="imagesss">
+      <img src="work1.png" alt="">
+      <img src="work2.png" alt="">
+      
+      <img src="work3.png" alt="">
+       </div>
+   </div>
+   <div class="heading6">
+      <div class="h6">
+         <h3 class="h3">SIGN UP</h3>
+         
+      </div>
+      <div class="h7">
+         <h3 class="h4">SELECT COURSES</h3>
+         
+      </div>
+      <div class="h8">
+         <h3 class="h5">START LEARNING</h3>
+         
+      </div>
+   </div>
+</div>
+<div class="heading9">
+   <h3>What new trends and<br> technology will you discover?</h3>
+</div>
+<div class="container4">
+   
+   <div class="images5">
+      <div>
+      <img src="brain1.png" alt="">
+      <h4 >ML&AI</h4>
+      </div>
+      <div>
+      <img src="blockchain2.png" alt="">
+      <h4 >B.CHAIN</h4></div>
+      <div>
+      <img src="amazon3.png" alt="">
+      <h4 >AMAZON</h4></div>
+      <div>
+      <img src="cyber4.png" alt="">
+      <h4 >CYBER</h4></div>
+      <div>
+      <img src="dev5.png" alt="">
+      <h4 >DEVOOPS</h4></div>
+      
+   </div>
+</div>
+<div class="button2">
+   <button>Load more</button>
+</div>
+<footer>
+   <div class="image10">
+      <img src="" alt="">
+   </div>
+   
+</footer>
+
+</body>
+
+</html>

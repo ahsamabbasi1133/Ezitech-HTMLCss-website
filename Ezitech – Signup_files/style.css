@@ -1,0 +1,19 @@
+.loader {
+  height: 150px;
+  width: 150px;
+  
+  border-radius: 50%;
+  border: 12px solid yellow;
+  border-top: 12px solid black;
+
+  animation: spincolor 2s ease-in 0s infinite normal ;
+}
+  
+@keyframes spincolor{
+  from{
+      transform: rotate(0deg);
+  }
+  to{
+      transform: rotate(360deg);
+  }
+}
